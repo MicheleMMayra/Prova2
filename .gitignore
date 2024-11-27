@@ -1,3 +1,4 @@
+cd painel-fakestore
 .DS_Store
 node_modules
 /dist
